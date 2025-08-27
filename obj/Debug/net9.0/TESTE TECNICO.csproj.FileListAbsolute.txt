@@ -1,0 +1,14 @@
+C:\TESTE TECNICO\obj\Debug\net9.0\TESTE TECNICO.GeneratedMSBuildEditorConfig.editorconfig
+C:\TESTE TECNICO\obj\Debug\net9.0\TESTE TECNICO.AssemblyInfoInputs.cache
+C:\TESTE TECNICO\obj\Debug\net9.0\TESTE TECNICO.AssemblyInfo.cs
+C:\TESTE TECNICO\obj\Debug\net9.0\TESTE TECNICO.csproj.CoreCompileInputs.cache
+C:\TESTE TECNICO\bin\Debug\net9.0\TESTE TECNICO.exe
+C:\TESTE TECNICO\bin\Debug\net9.0\TESTE TECNICO.deps.json
+C:\TESTE TECNICO\bin\Debug\net9.0\TESTE TECNICO.runtimeconfig.json
+C:\TESTE TECNICO\bin\Debug\net9.0\TESTE TECNICO.dll
+C:\TESTE TECNICO\bin\Debug\net9.0\TESTE TECNICO.pdb
+C:\TESTE TECNICO\obj\Debug\net9.0\TESTE TECNICO.dll
+C:\TESTE TECNICO\obj\Debug\net9.0\refint\TESTE TECNICO.dll
+C:\TESTE TECNICO\obj\Debug\net9.0\TESTE TECNICO.pdb
+C:\TESTE TECNICO\obj\Debug\net9.0\TESTE TECNICO.genruntimeconfig.cache
+C:\TESTE TECNICO\obj\Debug\net9.0\ref\TESTE TECNICO.dll

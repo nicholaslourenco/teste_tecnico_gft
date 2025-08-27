@@ -1,0 +1,9 @@
+Olá, tenho um trecho de pseudocódigo genérico para um loop que itera sobre os elementos 
+de uma lista. Este código está gerando um erro de 'acesso fora dos limites da lista'.
+
+Por favor, analise o código e me explique por que esse erro acontece. Além disso, mostre 
+a solução correta e explique a lógica por trás dela.
+
+lista = ["Ana", "Bruno", "Carlos"]
+for i de 0 até lista.tamanho:
+imprimir(lista[i])
